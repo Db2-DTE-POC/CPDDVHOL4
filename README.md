@@ -1,6 +1,4 @@
 # IBM Cloud Pak for Data Virtualization
-This repository contains examples used to demonstrate Data Virtualiation in IBM Cloud Pak for Data.
+This repository contains examples used to demonstrate Data Virtualiation in IBM Cloud Pak for Data Version 4.02.
 
-The Db2 Jupyter Extensions are already found in this repository and are used by the labs.
-
-#### Credits: IBM 2019, Peter Kohlmann [kohlmann@ca.ibm.com], George Baklarz [baklarz@ca.ibm.com] 
+#### Credits: IBM 2021, Peter Kohlmann [kohlmann@ca.ibm.com]
